@@ -1,0 +1,88 @@
+Brando Pythago
+(909) 252 2944 | thedef@gmail.com
+Summary
+My goal is to provide high value and quality service to everyone I work with. When given the proper information and a clear overall objectives I can work out the fine details that are necessary to provide a high quality result. I work with the provided objectives to ultimately provide a simplified solution that withstands the test of time. With an upbeat attitude, above average work ethic, and eye for detail I strive to put my best effort into any task at hand. 
+Education
+Northern Arizona University, Flagstaff, AZ
+B.S. Applied Computer Science Expected completion - [2026]
+Experience
+[May 2022] – [Current] 
+[Solutions Architect | [Amazon Web Services] | [Salt lake City, UT]
+-Responsible for working with Financial services client to support their yearly objectives as it relates to cloud operations.
+-Advising Credit Unions on future state cloud native architectures, utilizing the Amazon Web Services Well Architected Framework
+-Coordinated and Facilitated workshops on AWS Containerization, Networking, and Modernization.
+-Led and assisted in development of Compliance workshop material, intended to be out of the box solutions to Security and Compliance in AWS.
+-Assisted customer’s in setting up VPN connections from On-premise environments to cloud environments.
+-Provided customer’s with Proof of Concept code that validates an idea that the customer plans on implementing in AWS.
+
+
+
+[May 2021] – [May 2022] 
+[Technical Account Manager | [Amazon Web Services] | [Salt lake City, UT]
+-Responsible for working with Financial services client to support their yearly objectives as it relates to cloud operations.
+-Responsible for working with Local Government entity to support their yearly objectives as it relates to cloud operations.
+-Coordinated and facilitated cloud training exercises related to DevOps best practices in the cloud to further customers goals.
+-Coordinated resources to ensure customers were able to stay ahead of upcoming project launches and ensure minimal issues during launch events.
+-Worked with customer engineers to resolve AWS Cloud service issues – Services include, EC2, ElasticBeanstalk, IAM, S3, and VPC.
+-Provided customer with boilerplate scripting solutions using Python to resolve automation tasks that needed to be executed at scale.
+
+
+[October 2019] – [May 2021] 
+[IT Support Engineer II] | [Amazon] | [Salt lake City, UT]
+-Led IT Infrastructure Deployment and configuration for 1 Build Site. This involved coordinating between multiple teams and organizing task for technicians to complete. 
+-Participated in infrastructure deployment for 7 Build sites. Using automated systems to deploy Infrastructure stacks including, networking devices and servers. 
+-Created automation script to focus and Zoom 500+ cameras using Python, currently in use across NA.
+-Created automation script to pull verification information from Cisco switches using Go.
+-Worked with AWS team to create S3 file renaming Lambda function for external customer. This involved the use of the Python Boto3 SDK.
+-Worked with AWS team to create data pipeline for customer that processed data from external API to be displayed within the AWS Quick sight Service. This involved the use of the Python Boto3 SDK. The process included requesting data to third party API, writing data to CSV, putting CSV to S3 bucket, and finally reading the CSV to Quick sight dashboard.
+-Worked with SNS to ingest “On change” data to SQS and Lambda to distribute particular data to ticketing queues to improve response time to higher severity issues within the organization. 
+-Worked with DynamoDB to manage the information related to camera monitoring and Covid Contact tracing. I specifically worked with updating the table information using CLI tools.
+
+[July 2018] – [October 2019] 
+[IT Support Engineer I] | [Amazon] | [Salt Lake City, UT]
+-Deployed and Configured Cisco ISE/ISA Firewalls
+-Deployed and Configured Dell switches
+-Led IT Infrastructure Deployment and configuration for 1 Build site.
+- Manually configured OSPF in lieu of failed standard operating procedure.
+-Ran 100+ Change management procedures, modifying internal infrastructure.
+-Mentored 2 Technicians that became engineers.
+-Mentored 3 Equipment coordinators that became technicians.
+-Acted as interim IT manager after previous manager was promoted to a different organization.
+-Managed site projects including coordinating deployment of Radio System and Upgrade of network infrastructure Firmware.
+
+[December 2017] – [July 2018] 
+[IT Support Technician] | [Amazon] | [Moreno Valley, CA]
+- Managing cabling for computer stations.
+- Installing and managing computer software and hardware.
+- Troubleshooting and managing client network addressing
+- Working with various networking tools to troubleshoot and solve networking issues.
+- Ability to solve issues remotely using various remote desktop software.
+- Providing customer support for various hardware and software problems.
+- Taking inventory and ordering necessary equipment to ensure readiness for operations.
+
+[October 2017] – [December 2017] 
+[Seasonal IT Support Technician] | [Amazon] | [San Bernardino, CA]
+- Troubleshooting a variety of computing devices such as: Printers and laptops.
+- Managing cabling for computer stations.
+- Installing and managing computer software and hardware.
+
+ [June 2014] – [November 2014]
+[Web Developer/Jr Software Engineer] | [iFuel Smart] | [Phoenix, AZ]
+-Built backend website that managed employees contact information and tracked their sales progress.
+-Setup VoIP server using asterisk on virtual servers as well as dedicated server as well. 
+-Setup company payment portal using Chase Paymentech payment gateway.
+-Responsible for setting up live streams where I had to create a chat room to communicate with the customers.
+Awards & Acknowledgements
+Cisco CCNA Certified
+Comptia Linux+
+AWS Cloud Practitioner
+AWS Solutions Architect Associate
+Captain and Scholarship high school football athlete, leading high school football team to semifinals in the CBL playoffs.
+All conference honors and State honors for high school athletics.
+Selected Captain for Northern Arizona University Football Senior year.
+Skills
+Consistently type 80+ words per minute.
+Experience with Linux (Centos Specifically) and Windows platforms. Have experience using virtual box to run instances for testing purposes.
+Experience with S3 and EC2 on the AWS(Amazon Web Services) platform.
+Experience in JavaScript, Python, and Go. Ability to learn any new language given different project needs. 
+Ability to actively listen and understand others points of view.
